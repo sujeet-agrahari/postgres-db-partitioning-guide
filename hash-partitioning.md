@@ -1,6 +1,8 @@
 ```sql
 -- Hash paritioning is great when you have many different values
 -- A good candidate would be the seqid column
+-- When choosing a column as a partition key, selecting one with high cardinality is important to ensure a balanced distribution of data across partitions
+-- high cardinality" in the context of database partitioning refers to having a column with a large number of distinct values.
 ( seqid text
 , date_of_stop date
 , time_of_stop time
