@@ -23,4 +23,5 @@ We encourage contributions from the community to enhance the Database Partitioni
 To get started with the Database Partitioning Guide, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/sujeet-agrahari/postgres-db-partitioning-guide.git
+```
