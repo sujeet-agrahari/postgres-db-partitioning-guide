@@ -2,6 +2,21 @@
 
 Welcome to the **Database Partitioning Guide** repository! This comprehensive guide aims to provide you with a deep understanding of database partitioning strategies along with real-time data examples and query samples for experimentation and learning.
 
+> [!IMPORTANT]
+> Follow the files in below order to get started:
+>
+> - data-partition-presentation.pptx
+>
+> - partition-0.md
+>
+> - data-setup-1.md
+>
+> - range-partition-2.md
+>
+> - list-partition-3.md
+>
+> - hash-partition-4.md
+
 ## Features
 
 - **Real-Time Data**: Explore a diverse collection of real-time data sets that simulate large-scale databases. Gain practical insights into partitioning strategies using datasets from various industries and scenarios.
